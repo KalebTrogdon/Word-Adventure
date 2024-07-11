@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Goblin",
+        "health": 30,
+        "attack": 10,
+        "description": "A small, agile creature."
+    },
+    {
+        "name": "Bandit",
+        "health": 40,
+        "attack": 12,
+        "description": "A quick and cunning outlaw."
+    },
+    {
+        "name": "Wild Beast",
+        "health": 50,
+        "attack": 15,
+        "description": "A ferocious wild animal."
+    },
+    {
+        "name": "Orc",
+        "health": 60,
+        "attack": 18,
+        "description": "A formidable warrior from the mountains."
+    },
+    {
+        "name": "Dragon",
+        "health": 100,
+        "attack": 25,
+        "description": "An ancient and powerful creature of legend."
+    },
+    {
+        "name": "Troll",
+        "health": 80,
+        "attack": 20,
+        "description": "A large and strong creature."
+    },
+    {
+        "name": "Skeleton",
+        "health": 35,
+        "attack": 11,
+        "description": "An undead warrior."
+    },
+    {
+        "name": "Spider",
+        "health": 25,
+        "attack": 8,
+        "description": "A venomous arachnid."
+    },
+    {
+        "name": "Slime",
+        "health": 20,
+        "attack": 5,
+        "description": "A gooey and acidic creature."
+    },
+    {
+        "name": "Zombie",
+        "health": 45,
+        "attack": 13,
+        "description": "A reanimated corpse."
+    },
+    {
+        "name": "Ghost",
+        "health": 40,
+        "attack": 12,
+        "description": "An ethereal being."
+    },
+    {
+        "name": "Vampire",
+        "health": 70,
+        "attack": 22,
+        "description": "A bloodthirsty night creature."
+    },
+    {
+        "name": "Werewolf",
+        "health": 65,
+        "attack": 20,
+        "description": "A cursed human-beast hybrid."
+    },
+    {
+        "name": "Witch",
+        "health": 55,
+        "attack": 18,
+        "description": "A spellcasting sorceress."
+    },
+    {
+        "name": "Banshee",
+        "health": 50,
+        "attack": 15,
+        "description": "A wailing spirit."
+    },
+    {
+        "name": "Hydra",
+        "health": 120,
+        "attack": 30,
+        "description": "A mythical serpent with multiple heads."
+    },
+    {
+        "name": "Phoenix",
+        "health": 90,
+        "attack": 25,
+        "description": "A fiery bird of rebirth."
+    },
+    {
+        "name": "Griffin",
+        "health": 85,
+        "attack": 24,
+        "description": "A majestic creature with lion and eagle traits."
+    },
+    {
+        "name": "Cyclops",
+        "health": 110,
+        "attack": 28,
+        "description": "A one-eyed giant."
+    },
+    {
+        "name": "Minotaur",
+        "health": 100,
+        "attack": 27,
+        "description": "A powerful bull-headed creature."
+    },
+    {
+        "name": "Harpy",
+        "health": 75,
+        "attack": 20,
+        "description": "A winged monster."
+    },
+    {
+        "name": "Centaur",
+        "health": 70,
+        "attack": 18,
+        "description": "A half-human, half-horse being."
+    },
+    {
+        "name": "Demon",
+        "health": 95,
+        "attack": 23,
+        "description": "A malevolent entity."
+    },
+    {
+        "name": "Kraken",
+        "health": 150,
+        "attack": 35,
+        "description": "A legendary sea monster."
+    },
+    {
+        "name": "Yeti",
+        "health": 80,
+        "attack": 21,
+        "description": "A mysterious creature of the snowy mountains."
+    },
+    {
+        "name": "Djinn",
+        "health": 85,
+        "attack": 22,
+        "description": "A magical genie."
+    },
+    {
+        "name": "Lich",
+        "health": 130,
+        "attack": 32,
+        "description": "An undead sorcerer."
+    },
+    {
+        "name": "Basilisk",
+        "health": 105,
+        "attack": 26,
+        "description": "A reptilian creature with petrifying gaze."
+    },
+    {
+        "name": "Chimera",
+        "health": 115,
+        "attack": 29,
+        "description": "A monstrous hybrid."
+    },
+    {
+        "name": "Sphinx",
+        "health": 95,
+        "attack": 23,
+        "description": "A wise and enigmatic guardian."
+    },
+    {
+        "name": "Ogre",
+        "health": 75,
+        "attack": 20,
+        "description": "A brutish humanoid."
+    },
+    {
+        "name": "Wraith",
+        "health": 60,
+        "attack": 17,
+        "description": "A spectral apparition."
+    },
+    {
+        "name": "Siren",
+        "health": 65,
+        "attack": 19,
+        "description": "A mesmerizing sea creature."
+    },
+    {
+        "name": "Golem",
+        "health": 110,
+        "attack": 28,
+        "description": "A powerful animated construct."
+    },
+    {
+        "name": "Gremlin",
+        "health": 40,
+        "attack": 12,
+        "description": "A mischievous troublemaker."
+    },
+    {
+        "name": "Imp",
+        "health": 30,
+        "attack": 10,
+        "description": "A small, fiendish creature."
+    },
+    {
+        "name": "Hag",
+        "health": 55,
+        "attack": 16,
+        "description": "An old and malevolent witch."
+    },
+    {
+        "name": "Titan",
+        "health": 200,
+        "attack": 40,
+        "description": "A colossal giant."
+    }
+]

@@ -1,0 +1,331 @@
+{
+    "Forest": {
+        "north": "Town",
+        "south": "Cave",
+        "east": null,
+        "west": null,
+        "description": "A dense forest with towering trees and winding paths."
+    },
+    "Town": {
+        "north": null,
+        "south": "Forest",
+        "east": "Marketplace",
+        "west": null,
+        "description": "A bustling town square filled with shops and villagers."
+    },
+    "Cave": {
+        "north": "Forest",
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A dark cave with mysterious echoes."
+    },
+    "Treasure Room": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A room filled with glittering treasures."
+    },
+    "Lake": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A serene lake surrounded by lush greenery."
+    },
+    "Mountain": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A towering mountain peak with breathtaking views."
+    },
+    "Castle": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An ancient castle with crumbling walls."
+    },
+    "Graveyard": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A spooky graveyard with eerie tombstones."
+    },
+    "Swamp": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A murky swamp with twisting vines and fog."
+    },
+    "Desert": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A vast desert with scorching sand dunes."
+    },
+    "Jungle": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A dense jungle teeming with exotic wildlife."
+    },
+    "Volcano": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An active volcano spewing lava."
+    },
+    "Ruins": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "Ancient ruins with weathered stone structures."
+    },
+    "Underground Lair": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A hidden underground lair."
+    },
+    "Waterfall": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A majestic waterfall cascading into a pool."
+    },
+    "Glacier": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A frozen glacier with icy caverns."
+    },
+    "Beach": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A sandy beach with crashing waves."
+    },
+    "Village": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A peaceful village with thatched-roof houses."
+    },
+    "Shipwreck": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A shipwreck on rocky shores."
+    },
+    "Mansion": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A grand mansion with sprawling grounds."
+    },
+    "Temple": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An ancient temple with mysterious glyphs."
+    },
+    "Labyrinth": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A twisting labyrinth with countless passages."
+    },
+    "Bridge": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A sturdy stone bridge spanning a river."
+    },
+    "Fortress": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A formidable fortress overlooking the land."
+    },
+    "Oasis": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A lush oasis in the middle of the desert."
+    },
+    "Tundra": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A frozen tundra with biting cold winds."
+    },
+    "Cemetery": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A quiet cemetery under a starry sky."
+    },
+    "Water Cave": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A cave filled with underground streams."
+    },
+    "Canyon": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A deep canyon with towering cliffs."
+    },
+    "Mine": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An abandoned mine shaft with dark tunnels."
+    },
+    "Marsh": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A gloomy marsh with stagnant waters."
+    },
+    "Island": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A secluded island surrounded by azure waters."
+    },
+    "Marketplace": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": "Town",
+        "description": "A bustling marketplace filled with traders."
+    },
+    "Library": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A vast library with shelves of ancient tomes."
+    },
+    "Arena": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A grand arena where warriors duel."
+    },
+    "Campsite": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A cozy campsite under a canopy of stars."
+    },
+    "Aqueduct": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An ancient aqueduct carrying water."
+    },
+    "Laboratory": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A mysterious laboratory with bubbling potions."
+    },
+    "Observatory": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An observatory with telescopes pointing to the stars."
+    },
+    "Throne Room": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A majestic throne room with regal decorations."
+    },
+    "Workshop": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A busy workshop with tools and inventions."
+    },
+    "Cave Entrance": {
+        "north": "Cave",
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "The entrance to a dark and foreboding cave."
+    },
+    "Wizard's Tower": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A tall tower where arcane magic crackles."
+    },
+    "Enchanted Forest": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A magical forest with glowing flora."
+    },
+    "Goblin Camp": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A makeshift camp bustling with goblins."
+    },
+    "Haunted House": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "A spooky house with creaky floors and eerie sounds."
+    },
+    "Crypt": {
+        "north": null,
+        "south": null,
+        "east": null,
+        "west": null,
+        "description": "An ancient crypt with stone sarcophagi."
+    }
+}

@@ -1,0 +1,1465 @@
+[
+    {
+        "name": "Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.2",
+        "description": "A basic one-handed sword known for its versatility and ease of use."
+    },
+    {
+        "name": "Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.4",
+        "description": "A heavy two-handed axe favored by warriors for its raw power."
+    },
+    {
+        "name": "Dagger",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.1",
+        "description": "A lightweight dagger perfect for swift and precise strikes."
+    },
+    {
+        "name": "Mace",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.3",
+        "description": "A blunt one-handed mace capable of crushing armor."
+    },
+    {
+        "name": "Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.2",
+        "description": "A standard two-handed bow ideal for ranged attacks."
+    },
+    {
+        "name": "Crossbow",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.3",
+        "description": "A powerful two-handed crossbow known for its accuracy and penetration."
+    },
+    {
+        "name": "Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.1",
+        "description": "A simple two-handed staff used by spellcasters for channeling magic."
+    },
+    {
+        "name": "Wand",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.0",
+        "description": "A basic wand used by wizards for spellcasting."
+    },
+    {
+        "name": "Shield",
+        "type": "shield",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "A sturdy shield offering reliable defense against physical attacks."
+    },
+    {
+        "name": "Helmet",
+        "type": "head",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "A basic helmet providing minimal protection for the head."
+    },
+    {
+        "name": "Chestplate",
+        "type": "chest",
+        "armor_rating": "8",
+        "damage_rating": "0",
+        "description": "A standard chestplate offering substantial protection for the torso."
+    },
+    {
+        "name": "Gauntlets",
+        "type": "gloves",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "Simple gauntlets offering basic hand protection."
+    },
+    {
+        "name": "Gloves",
+        "type": "gloves",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "Light gloves offering minimal protection."
+    },
+    {
+        "name": "Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Armguards that provide light protection for the arms."
+    },
+    {
+        "name": "Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Sturdy vambraces that offer reliable arm protection."
+    },
+    {
+        "name": "Necklace",
+        "type": "necklace",
+        "armor_rating": "3",
+        "damage_rating": "0",
+        "description": "A decorative necklace imbued with magical properties."
+    },
+    {
+        "name": "Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.5",
+        "damage_rating": "0",
+        "description": "A ring worn on the left hand."
+    },
+    {
+        "name": "Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.5",
+        "damage_rating": "0",
+        "description": "A ring worn on the right hand."
+    },
+    {
+        "name": "Leggings",
+        "type": "legs",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Protective leggings offering durability and mobility."
+    },
+    {
+        "name": "Boots",
+        "type": "boots",
+        "armor_rating": "2",
+        "damage_rating": "0",
+        "description": "Durable boots designed for comfort and mobility."
+    },
+    {
+        "name": "Health Potion",
+        "type": "health_potion",
+        "armor_rating": "0",
+        "damage_rating": "30",
+        "description": "A potion that restores health points."
+    },
+    {
+        "name": "Mana Potion",
+        "type": "mana_potion",
+        "armor_rating": "0",
+        "damage_rating": "25",
+        "description": "A potion that restores mana points."
+    },
+    {
+        "name": "Strength Potion",
+        "type": "strength_potion",
+        "armor_rating": "0",
+        "damage_rating": "20",
+        "description": "A potion that enhances physical strength temporarily."
+    },
+    {
+        "name": "Agility Potion",
+        "type": "agility_potion",
+        "armor_rating": "0",
+        "damage_rating": "20",
+        "description": "A potion that enhances agility temporarily."
+    },
+    {
+        "name": "Intelligence Potion",
+        "type": "int_potion",
+        "armor_rating": "0",
+        "damage_rating": "20",
+        "description": "A potion that enhances intelligence temporarily."
+    },
+    {
+        "name": "Stamina Potion",
+        "type": "stam_potion",
+        "armor_rating": "0",
+        "damage_rating": "20",
+        "description": "A potion that enhances stamina temporarily."
+    },
+    {
+        "name": "Elixir of Life",
+        "type": "elixir_life",
+        "armor_rating": "0",
+        "damage_rating": "50",
+        "description": "A powerful elixir that restores health and vitality."
+    },
+    {
+        "name": "Elixir of Power",
+        "type": "elixir_power",
+        "armor_rating": "0",
+        "damage_rating": "50",
+        "description": "A potent elixir that enhances physical and magical abilities."
+    },
+    {
+        "name": "Elixir of Speed",
+        "type": "elixir_speed",
+        "armor_rating": "0",
+        "damage_rating": "50",
+        "description": "A swift elixir that boosts speed and reflexes."
+    },
+    {
+        "name": "Elixir of Wisdom",
+        "type": "elixir_wisdom",
+        "armor_rating": "0",
+        "damage_rating": "50",
+        "description": "An enlightening elixir that enhances wisdom and knowledge."
+    },
+    {
+        "name": "Magic Amulet",
+        "type": "necklace",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "An amulet imbued with magical energies."
+    },
+    {
+        "name": "Cloak",
+        "type": "back",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "A protective cloak that enhances agility and stealth."
+    },
+    {
+        "name": "Robe",
+        "type": "chest",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "A lightweight robe favored by spellcasters for its magical properties."
+    },
+    {
+        "name": "Scroll of Fireball",
+        "type": "scroll_fire",
+        "armor_rating": "0",
+        "damage_rating": "35",
+        "description": "A scroll containing a powerful fireball spell."
+    },
+    {
+        "name": "Scroll of Healing",
+        "type": "scroll_heal",
+        "armor_rating": "0",
+        "damage_rating": "30",
+        "description": "A scroll containing a healing spell."
+    },
+    {
+        "name": "Scroll of Invisibility",
+        "type": "scroll_invis",
+        "armor_rating": "0",
+        "damage_rating": "40",
+        "description": "A scroll containing an invisibility spell."
+    },
+    {
+        "name": "Scroll of Lightning",
+        "type": "scroll_lighting",
+        "armor_rating": "0",
+        "damage_rating": "35",
+        "description": "A scroll containing a lightning spell."
+    },
+    {
+        "name": "Scroll of Teleportation",
+        "type": "scroll_telly",
+        "armor_rating": "0",
+        "damage_rating": "40",
+        "description": "A scroll containing a teleportation spell."
+    },
+    {
+        "name": "Tome of Knowledge",
+        "type": "tome_knowledge",
+        "armor_rating": "0",
+        "damage_rating": "25",
+        "description": "A tome filled with ancient knowledge."
+    },
+    {
+        "name": "Tome of Power",
+        "type": "tome_power",
+        "armor_rating": "0",
+        "damage_rating": "30",
+        "description": "A tome that enhances magical power."
+    },
+    {
+        "name": "Tome of Secrets",
+        "type": "tome_secrets",
+        "armor_rating": "0",
+        "damage_rating": "35",
+        "description": "A tome containing hidden secrets."
+    },
+    {
+        "name": "Tome of Spells",
+        "type": "tome_spells",
+        "armor_rating": "0",
+        "damage_rating": "30",
+        "description": "A tome filled with powerful spells."
+    },
+    {
+        "name": "Orb of Enlightenment",
+        "type": "orb_enlight",
+        "armor_rating": "0",
+        "damage_rating": "45",
+        "description": "An orb that enhances wisdom and enlightenment."
+    },
+    {
+        "name": "Orb of Protection",
+        "type": "orb_protection",
+        "armor_rating": "40",
+        "damage_rating": "0",
+        "description": "An orb that provides protective energies."
+    },
+    {
+        "name": "Orb of Summoning",
+        "type": "orb_summon",
+        "armor_rating": "0",
+        "damage_rating": "45",
+        "description": "An orb that can summon mystical entities."
+    },
+    {
+        "name": "Orb of Teleportation",
+        "type": "orb_telly",
+        "armor_rating": "0",
+        "damage_rating": "40",
+        "description": "An orb that enables teleportation."
+    },
+    {
+        "name": "Enchanted Dagger",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.2",
+        "description": "A magically enhanced dagger capable of piercing magical defenses."
+    },
+    {
+        "name": "Enchanted Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.3",
+        "description": "A bow infused with magical energies enhancing its power and accuracy."
+    },
+    {
+        "name": "Enchanted Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.1",
+        "description": "A staff imbued with enchantments enhancing spellcasting abilities."
+    },
+    {
+        "name": "Enchanted Shield",
+        "type": "shield",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "A shield enchanted for enhanced defense against all attacks."
+    },
+    {
+        "name": "Enchanted Helmet",
+        "type": "head",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "A helmet imbued with magical protection."
+    },
+    {
+        "name": "Enchanted Chestplate",
+        "type": "chest",
+        "armor_rating": "9",
+        "damage_rating": "0",
+        "description": "A chestplate enchanted for superior protection."
+    },
+    {
+        "name": "Enchanted Gauntlets",
+        "type": "gloves",
+        "armor_rating": "0.9",
+        "damage_rating": "0",
+        "description": "Gauntlets imbued with magical resilience."
+    },
+    {
+        "name": "Enchanted Gloves",
+        "type": "gloves",
+        "armor_rating": "0.9",
+        "damage_rating": "0",
+        "description": "Gloves enchanted to provide enhanced protection."
+    },
+    {
+        "name": "Enchanted Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Armguards imbued with magical fortitude."
+    },
+    {
+        "name": "Enchanted Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Vambraces enchanted for enhanced arm protection."
+    },
+    {
+        "name": "Enchanted Necklace",
+        "type": "necklace",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "A necklace imbued with enchantments enhancing magical abilities."
+    },
+    {
+        "name": "Enchanted Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.6",
+        "damage_rating": "0",
+        "description": "A ring worn on the left hand imbued with magical properties."
+    },
+    {
+        "name": "Enchanted Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.6",
+        "damage_rating": "0",
+        "description": "A ring worn on the right hand imbued with magical properties."
+    },
+    {
+        "name": "Enchanted Leggings",
+        "type": "legs",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "Leggings enchanted for enhanced durability and protection."
+    },
+    {
+        "name": "Enchanted Boots",
+        "type": "boots",
+        "armor_rating": "3",
+        "damage_rating": "0",
+        "description": "Boots enchanted for enhanced protection and agility."
+    },
+    {
+        "name": "Legendary Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.5",
+        "description": "A legendary one-handed sword known for its unparalleled craftsmanship and power."
+    },
+    {
+        "name": "Legendary Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.7",
+        "description": "A legendary two-handed axe crafted by master artisans known for its devastating impact."
+    },
+    {
+        "name": "Legendary Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.5",
+        "description": "A legendary two-handed bow infused with legendary energies known for its precision and power."
+    },
+    {
+        "name": "Legendary Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "1.3",
+        "description": "A legendary staff passed down through generations imbued with legendary magic."
+    },
+    {
+        "name": "Legendary Shield",
+        "type": "shield",
+        "armor_rating": "8",
+        "damage_rating": "0",
+        "description": "A legendary shield crafted by legendary smiths offers formidable defense against all attacks."
+    },
+    {
+        "name": "Legendary Helmet",
+        "type": "head",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "A legendary helmet worn by heroes of legend offers superior protection."
+    },
+    {
+        "name": "Legendary Chestplate",
+        "type": "chest",
+        "armor_rating": "10",
+        "damage_rating": "0",
+        "description": "A legendary chestplate forged with legendary craftsmanship offers unmatched protection."
+    },
+    {
+        "name": "Legendary Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "Legendary gauntlets crafted with legendary skill offer unparalleled defense."
+    },
+    {
+        "name": "Legendary Gloves",
+        "type": "gloves",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "Legendary gloves imbued with legendary magic provide minimal but reliable protection."
+    },
+    {
+        "name": "Legendary Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Legendary armguards crafted with legendary materials offer enhanced protection for the arms."
+    },
+    {
+        "name": "Legendary Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Legendary vambraces imbued with legendary magic offer reliable protection for the arms."
+    },
+    {
+        "name": "Legendary Necklace",
+        "type": "necklace",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "A legendary necklace passed down through ages imbued with legendary magic."
+    },
+    {
+        "name": "Legendary Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "A legendary ring worn on the left hand."
+    },
+    {
+        "name": "Legendary Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "A legendary ring worn on the right hand."
+    },
+    {
+        "name": "Legendary Leggings",
+        "type": "legs",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "Legendary leggings crafted with legendary materials offer reliable protection for the legs."
+    },
+    {
+        "name": "Legendary Boots",
+        "type": "boots",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Legendary boots crafted with legendary craftsmanship offer reliable protection and mobility."
+    },
+    {
+        "name": "Divine Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "0",
+        "damage_rating": "2.0",
+        "description": "A divine one-handed sword blessed by divine powers known for its holy aura and righteous edge."
+    },
+    {
+        "name": "Divine Shield",
+        "type": "shield",
+        "armor_rating": "10",
+        "damage_rating": "0",
+        "description": "A divine shield infused with divine energies provides unparalleled defense against all attacks."
+    },
+    {
+        "name": "Divine Chestplate",
+        "type": "chest",
+        "armor_rating": "12",
+        "damage_rating": "0",
+        "description": "A divine chestplate imbued with divine blessings offers supreme protection."
+    },
+    {
+        "name": "Divine Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "A divine ring worn on the left hand blessed with divine protection."
+    },
+    {
+        "name": "Divine Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "A divine ring worn on the right hand blessed with divine protection."
+    },
+    {
+        "name": "Divine Helmet",
+        "type": "head",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "A divine helmet blessed by celestial powers offers superior protection."
+    },
+    {
+        "name": "Divine Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Divine gauntlets imbued with divine energies offer formidable protection."
+    },
+    {
+        "name": "Divine Gloves",
+        "type": "gloves",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Divine gloves blessed with divine grace provide enhanced protection."
+    },
+    {
+        "name": "Divine Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "Divine armguards crafted with divine blessings offer superior arm protection."
+    },
+    {
+        "name": "Divine Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "Divine vambraces imbued with divine energies provide unmatched arm protection."
+    },
+    {
+        "name": "Divine Necklace",
+        "type": "necklace",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "A divine necklace blessed with divine powers enhances the wearer's abilities."
+    },
+    {
+        "name": "Divine Leggings",
+        "type": "legs",
+        "armor_rating": "8",
+        "damage_rating": "0",
+        "description": "Divine leggings imbued with divine blessings provide unparalleled protection and mobility."
+    },
+    {
+        "name": "Divine Boots",
+        "type": "boots",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "Divine boots blessed with divine grace offer unmatched protection and agility."
+    },
+    {
+        "name": "Mystic Orb",
+        "type": "orb_mystic",
+        "armor_rating": "60",
+        "damage_rating": "0",
+        "description": "A mystical orb infused with mysterious energies enhances magical abilities."
+    },
+    {
+        "name": "Mystic Tome",
+        "type": "tome_mystic",
+        "armor_rating": "50",
+        "damage_rating": "0",
+        "description": "A mystical tome containing ancient and powerful spells."
+    },
+    {
+        "name": "Mystic Scroll",
+        "type": "scroll_mystic",
+        "armor_rating": "55",
+        "damage_rating": "0",
+        "description": "A mystical scroll imbued with arcane energies containing powerful incantations."
+    },
+    {
+        "name": "Mystic Elixir",
+        "type": "elixir_mystic",
+        "armor_rating": "70",
+        "damage_rating": "0",
+        "description": "A mystical elixir offering enhanced physical and magical prowess."
+    },
+    {
+        "name": "Mystic Amulet",
+        "type": "necklace",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "A mystical amulet imbued with mystical energies enhances the wearer's abilities greatly."
+    },
+    {
+        "name": "Mystic Cloak",
+        "type": "back",
+        "armor_rating": "14",
+        "damage_rating": "0",
+        "description": "A mystical cloak woven with arcane threads enhances stealth and agility."
+    },
+    {
+        "name": "Mystic Robe",
+        "type": "chest",
+        "armor_rating": "15",
+        "damage_rating": "0",
+        "description": "A mystical robe woven with magical fibers enhances magical potency."
+    },
+    {
+        "name": "Ancient Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "An ancient one-handed sword crafted in times long past known for its enduring sharpness."
+    },
+    {
+        "name": "Ancient Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "2.0",
+        "damage_rating": "0",
+        "description": "An ancient two-handed axe forged by ancient smiths known for its formidable strength."
+    },
+    {
+        "name": "Ancient Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "An ancient two-handed bow crafted by ancient archers known for its precision and power."
+    },
+    {
+        "name": "Ancient Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "1.6",
+        "damage_rating": "0",
+        "description": "An ancient staff passed down through ancient sorcerers imbued with ancient magic."
+    },
+    {
+        "name": "Ancient Shield",
+        "type": "shield",
+        "armor_rating": "9",
+        "damage_rating": "0",
+        "description": "An ancient shield forged in ancient times offers reliable defense against all attacks."
+    },
+    {
+        "name": "Ancient Helmet",
+        "type": "head",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "An ancient helmet worn by ancient warriors offers decent protection."
+    },
+    {
+        "name": "Ancient Chestplate",
+        "type": "chest",
+        "armor_rating": "11",
+        "damage_rating": "0",
+        "description": "An ancient chestplate crafted with ancient craftsmanship offers reliable protection."
+    },
+    {
+        "name": "Ancient Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Ancient gauntlets forged with ancient techniques offer basic protection."
+    },
+    {
+        "name": "Ancient Gloves",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Ancient gloves crafted with ancient materials offer minimal protection."
+    },
+    {
+        "name": "Ancient Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Ancient armguards imbued with ancient magic offer reliable arm protection."
+    },
+    {
+        "name": "Ancient Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Ancient vambraces forged with ancient metals offer sturdy arm protection."
+    },
+    {
+        "name": "Ancient Necklace",
+        "type": "necklace",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "An ancient necklace passed down through generations imbued with ancient magic."
+    },
+    {
+        "name": "Ancient Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "An ancient ring worn on the left hand imbued with ancient magic."
+    },
+    {
+        "name": "Ancient Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "An ancient ring worn on the right hand imbued with ancient magic."
+    },
+    {
+        "name": "Ancient Leggings",
+        "type": "legs",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "Ancient leggings crafted with ancient materials offer reliable protection for the legs."
+    },
+    {
+        "name": "Ancient Boots",
+        "type": "boots",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Ancient boots crafted with ancient craftsmanship offer reliable protection and mobility."
+    },
+    {
+        "name": "Ethereal Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "2.2",
+        "damage_rating": "0",
+        "description": "An ethereal one-handed sword forged from ethereal materials known for its ghostly edge."
+    },
+    {
+        "name": "Ethereal Shield",
+        "type": "shield",
+        "armor_rating": "11",
+        "damage_rating": "0",
+        "description": "An ethereal shield crafted from ethereal materials offers formidable defense against all attacks."
+    },
+    {
+        "name": "Ethereal Helmet",
+        "type": "head",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "An ethereal helmet made from ethereal materials offers superior protection."
+    },
+    {
+        "name": "Ethereal Chestplate",
+        "type": "chest",
+        "armor_rating": "13",
+        "damage_rating": "0",
+        "description": "An ethereal chestplate forged from ethereal materials offers supreme protection."
+    },
+    {
+        "name": "Ethereal Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "An ethereal ring worn on the left hand crafted from ethereal materials."
+    },
+    {
+        "name": "Ethereal Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "An ethereal ring worn on the right hand crafted from ethereal materials."
+    },
+    {
+        "name": "Ethereal Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Ethereal gauntlets crafted from ethereal materials offer formidable protection."
+    },
+    {
+        "name": "Ethereal Gloves",
+        "type": "gloves",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Ethereal gloves made from ethereal materials provide enhanced protection."
+    },
+    {
+        "name": "Ethereal Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.6",
+        "damage_rating": "0",
+        "description": "Ethereal armguards crafted from ethereal materials offer formidable arm protection."
+    },
+    {
+        "name": "Ethereal Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.6",
+        "damage_rating": "0",
+        "description": "Ethereal vambraces made from ethereal materials provide superior arm protection."
+    },
+    {
+        "name": "Ethereal Necklace",
+        "type": "necklace",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "An ethereal necklace made from ethereal materials enhances the wearer's abilities greatly."
+    },
+    {
+        "name": "Ethereal Leggings",
+        "type": "legs",
+        "armor_rating": "9",
+        "damage_rating": "0",
+        "description": "Ethereal leggings crafted from ethereal materials offer supreme leg protection."
+    },
+    {
+        "name": "Ethereal Boots",
+        "type": "boots",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "Ethereal boots made from ethereal materials offer formidable protection and agility."
+    },
+    {
+        "name": "Orcish Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "An orcish one-handed sword forged by orcish blacksmiths known for its brutal efficiency."
+    },
+    {
+        "name": "Orcish Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "1.7",
+        "damage_rating": "0",
+        "description": "An orcish two-handed axe crafted by orcish warriors known for its sheer power."
+    },
+    {
+        "name": "Orcish Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "An orcish two-handed bow favored by orcish archers known for its accuracy and strength."
+    },
+    {
+        "name": "Orcish Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "An orcish staff imbued with orcish magic known for its crude yet effective design."
+    },
+    {
+        "name": "Orcish Shield",
+        "type": "shield",
+        "armor_rating": "8",
+        "damage_rating": "0",
+        "description": "An orcish shield crafted by orcish craftsmen offers reliable defense against all attacks."
+    },
+    {
+        "name": "Orcish Helmet",
+        "type": "head",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "An orcish helmet worn by orcish warriors offers decent protection."
+    },
+    {
+        "name": "Orcish Chestplate",
+        "type": "chest",
+        "armor_rating": "10",
+        "damage_rating": "0",
+        "description": "An orcish chestplate forged with orcish techniques offers reliable protection."
+    },
+    {
+        "name": "Orcish Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "Orcish gauntlets crafted with orcish skill offer basic protection."
+    },
+    {
+        "name": "Orcish Gloves",
+        "type": "gloves",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "Orcish gloves made from orcish materials offer minimal protection."
+    },
+    {
+        "name": "Orcish Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Orcish armguards forged with orcish strength offer reliable arm protection."
+    },
+    {
+        "name": "Orcish Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.3",
+        "damage_rating": "0",
+        "description": "Orcish vambraces crafted with orcish resilience offer sturdy arm protection."
+    },
+    {
+        "name": "Orcish Necklace",
+        "type": "necklace",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "An orcish necklace adorned with orcish symbols enhances the wearer's abilities greatly."
+    },
+    {
+        "name": "Orcish Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "An orcish ring worn on the left hand."
+    },
+    {
+        "name": "Orcish Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.8",
+        "damage_rating": "0",
+        "description": "An orcish ring worn on the right hand."
+    },
+    {
+        "name": "Orcish Leggings",
+        "type": "legs",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "Orcish leggings crafted with orcish materials offer reliable protection for the legs."
+    },
+    {
+        "name": "Orcish Boots",
+        "type": "boots",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Orcish boots crafted with orcish craftsmanship offer reliable protection and mobility."
+    },
+    {
+        "name": "Elven Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "An elven one-handed sword crafted with elven finesse known for its graceful design and deadly edge."
+    },
+    {
+        "name": "Elven Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "2.0",
+        "damage_rating": "0",
+        "description": "An elven two-handed axe forged by elven smiths known for its elegant craftsmanship and power."
+    },
+    {
+        "name": "Elven Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "An elven two-handed bow crafted by elven archers known for its precision and elegance."
+    },
+    {
+        "name": "Elven Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "1.6",
+        "damage_rating": "0",
+        "description": "An elven staff imbued with elven magic known for its elegant design and powerful spells."
+    },
+    {
+        "name": "Elven Shield",
+        "type": "shield",
+        "armor_rating": "9",
+        "damage_rating": "0",
+        "description": "An elven shield crafted with elven grace offers reliable defense against all attacks."
+    },
+    {
+        "name": "Elven Helmet",
+        "type": "head",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "An elven helmet made from elven materials offers decent protection with elven elegance."
+    },
+    {
+        "name": "Elven Chestplate",
+        "type": "chest",
+        "armor_rating": "11",
+        "damage_rating": "0",
+        "description": "An elven chestplate crafted with elven techniques offers reliable protection with elven grace."
+    },
+    {
+        "name": "Elven Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Elven gauntlets crafted with elven finesse offer basic protection with elven elegance."
+    },
+    {
+        "name": "Elven Gloves",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Elven gloves made from elven materials offer minimal protection with elven grace."
+    },
+    {
+        "name": "Elven Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Elven armguards imbued with elven magic offer reliable arm protection with elven elegance."
+    },
+    {
+        "name": "Elven Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Elven vambraces crafted with elven resilience offer sturdy arm protection with elven grace."
+    },
+    {
+        "name": "Elven Necklace",
+        "type": "necklace",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "An elven necklace adorned with elven symbols enhances the wearer's abilities greatly with elven elegance."
+    },
+    {
+        "name": "Elven Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "An elven ring worn on the left hand imbued with elven magic."
+    },
+    {
+        "name": "Elven Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "An elven ring worn on the right hand imbued with elven magic."
+    },
+    {
+        "name": "Elven Leggings",
+        "type": "legs",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "Elven leggings crafted with elven materials offer reliable protection for the legs with elven elegance."
+    },
+    {
+        "name": "Elven Boots",
+        "type": "boots",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Elven boots crafted with elven craftsmanship offer reliable protection and mobility with elven grace."
+    },
+    {
+        "name": "Dwarven Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "A dwarven one-handed sword forged by dwarven blacksmiths known for its durability and craftsmanship."
+    },
+    {
+        "name": "Dwarven Axe",
+        "type": "two-handed weapon",
+        "armor_rating": "2.0",
+        "damage_rating": "0",
+        "description": "A dwarven two-handed axe crafted by dwarven warriors known for its robustness and strength."
+    },
+    {
+        "name": "Dwarven Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "1.8",
+        "damage_rating": "0",
+        "description": "A dwarven two-handed bow favored by dwarven archers known for its accuracy and durability."
+    },
+    {
+        "name": "Dwarven Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "1.6",
+        "damage_rating": "0",
+        "description": "A dwarven staff imbued with dwarven magic known for its sturdy design and powerful enchantments."
+    },
+    {
+        "name": "Dwarven Shield",
+        "type": "shield",
+        "armor_rating": "9",
+        "damage_rating": "0",
+        "description": "A dwarven shield crafted with dwarven techniques offers reliable defense against all attacks."
+    },
+    {
+        "name": "Dwarven Helmet",
+        "type": "head",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "A dwarven helmet made from dwarven materials offers decent protection with dwarven resilience."
+    },
+    {
+        "name": "Dwarven Chestplate",
+        "type": "chest",
+        "armor_rating": "11",
+        "damage_rating": "0",
+        "description": "A dwarven chestplate crafted with dwarven craftsmanship offers reliable protection with dwarven durability."
+    },
+    {
+        "name": "Dwarven Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Dwarven gauntlets forged with dwarven skill offer basic protection with dwarven craftsmanship."
+    },
+    {
+        "name": "Dwarven Gloves",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "0",
+        "description": "Dwarven gloves made from dwarven materials offer minimal protection with dwarven durability."
+    },
+    {
+        "name": "Dwarven Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Dwarven armguards forged with dwarven strength offer reliable arm protection with dwarven resilience."
+    },
+    {
+        "name": "Dwarven Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.4",
+        "damage_rating": "0",
+        "description": "Dwarven vambraces crafted with dwarven resilience offer sturdy arm protection with dwarven craftsmanship."
+    },
+    {
+        "name": "Dwarven Necklace",
+        "type": "necklace",
+        "armor_rating": "6",
+        "damage_rating": "0",
+        "description": "A dwarven necklace adorned with dwarven symbols enhances the wearer's abilities greatly with dwarven craftsmanship."
+    },
+    {
+        "name": "Dwarven Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "A dwarven ring worn on the left hand imbued with dwarven magic."
+    },
+    {
+        "name": "Dwarven Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.7",
+        "damage_rating": "0",
+        "description": "A dwarven ring worn on the right hand imbued with dwarven magic."
+    },
+    {
+        "name": "Dwarven Leggings",
+        "type": "legs",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "Dwarven leggings crafted with dwarven materials offers reliable protection for the legs with dwarven resilience."
+    },
+    {
+        "name": "Dwarven Boots",
+        "type": "boots",
+        "armor_rating": "4",
+        "damage_rating": "0",
+        "description": "Dwarven boots crafted with dwarven craftsmanship offers reliable protection and mobility with dwarven durability."
+    },
+    {
+        "name": "Dragon Sword",
+        "type": "one-handed weapon",
+        "armor_rating": "2.0",
+        "damage_rating": "0",
+        "description": "A dragon one-handed sword forged from dragon scales and imbued with dragon fire known for its deadly edge."
+    },
+    {
+        "name": "Dragon Shield",
+        "type": "shield",
+        "armor_rating": "10",
+        "damage_rating": "0",
+        "description": "A dragon shield crafted from dragon scales and imbued with dragon fire offers formidable defense against all attacks."
+    },
+    {
+        "name": "Dragon Helmet",
+        "type": "head",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "A dragon helmet made from dragon scales and imbued with dragon fire offers superior protection."
+    },
+    {
+        "name": "Dragon Chestplate",
+        "type": "chest",
+        "armor_rating": "12",
+        "damage_rating": "0",
+        "description": "A dragon chestplate forged from dragon scales and imbued with dragon fire offers supreme protection."
+    },
+    {
+        "name": "Dragon Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "A dragon ring worn on the left hand crafted from dragon scales and imbued with dragon fire."
+    },
+    {
+        "name": "Dragon Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "1.0",
+        "damage_rating": "0",
+        "description": "A dragon ring worn on the right hand crafted from dragon scales and imbued with dragon fire."
+    },
+    {
+        "name": "Dragon Gauntlets",
+        "type": "gloves",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Dragon gauntlets crafted from dragon scales and imbued with dragon fire offer formidable protection."
+    },
+    {
+        "name": "Dragon Gloves",
+        "type": "gloves",
+        "armor_rating": "1.2",
+        "damage_rating": "0",
+        "description": "Dragon gloves made from dragon scales and imbued with dragon fire provide enhanced protection."
+    },
+    {
+        "name": "Dragon Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "Dragon armguards crafted from dragon scales and imbued with dragon fire offer formidable arm protection."
+    },
+    {
+        "name": "Dragon Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.5",
+        "damage_rating": "0",
+        "description": "Dragon vambraces made from dragon scales and imbued with dragon fire provide superior arm protection."
+    },
+    {
+        "name": "Dragon Necklace",
+        "type": "necklace",
+        "armor_rating": "7",
+        "damage_rating": "0",
+        "description": "A dragon necklace made from dragon scales and imbued with dragon fire enhances the wearer's abilities greatly."
+    },
+    {
+        "name": "Dragon Leggings",
+        "type": "legs",
+        "armor_rating": "8",
+        "damage_rating": "0",
+        "description": "Dragon leggings crafted from dragon scales and imbued with dragon fire offer supreme leg protection."
+    },
+    {
+        "name": "Dragon Boots",
+        "type": "boots",
+        "armor_rating": "5",
+        "damage_rating": "0",
+        "description": "Dragon boots made from dragon scales and imbued with dragon fire offer formidable protection and agility."
+    },
+    {
+        "name": "Trap Detection Kit",
+        "type": "trap_detection_item",
+        "armor_rating": "1",
+        "damage_rating": "0",
+        "description": " Detects traps once and tells you what it is useless if your a Rogue but may or may not work."
+    },
+    {
+        "name": "Trap Disarming Kit",
+        "type": "trap_disarmament_item",
+        "armor_rating": "1",
+        "damage_rating": "0",
+        "description": " Disarms one trap of any type better chance to disarm as a rogue."
+    },
+    {
+        "name": "Mystic Wand",
+        "type": "wand",
+        "armor_rating": "1.5",
+        "damage_rating": "2.2",
+        "description": "A mystical wand infused with powerful arcane energies."
+    },
+    {
+        "name": "Mystic Staff",
+        "type": "two-handed weapon",
+        "armor_rating": "1.7",
+        "damage_rating": "2.5",
+        "description": "A mystical staff emanating with ancient magic."
+    },
+    {
+        "name": "Mystic Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.8",
+        "damage_rating": "1.1",
+        "description": "A mystical ring worn on the left hand enhancing magical abilities."
+    },
+    {
+        "name": "Mystic Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.8",
+        "damage_rating": "1.1",
+        "description": "A mystical ring worn on the right hand enhancing magical abilities."
+    },
+    {
+        "name": "Mystic Gloves",
+        "type": "gloves",
+        "armor_rating": "1.1",
+        "damage_rating": "1.5",
+        "description": "Mystical gloves imbued with magical protection."
+    },
+    {
+        "name": "Mystic Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.3",
+        "damage_rating": "1.7",
+        "description": "Mystical bracers reinforced with magical wards."
+    },
+    {
+        "name": "Mystic Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.3",
+        "damage_rating": "1.7",
+        "description": "Mystical vambraces enchanted for magical defense."
+    },
+    {
+        "name": "Mystic Necklace",
+        "type": "necklace",
+        "armor_rating": "5",
+        "damage_rating": "7",
+        "description": "A mystical necklace radiating with magical auras."
+    },
+    {
+        "name": "Mystic Boots",
+        "type": "boots",
+        "armor_rating": "3",
+        "damage_rating": "5",
+        "description": "Mystical boots imbued with enhanced mobility and magical protection."
+    },
+    {
+        "name": "Mystic Cloak",
+        "type": "back",
+        "armor_rating": "10",
+        "damage_rating": "",
+        "description": "A mystical cloak woven with magical fibers enhancing magical potency."
+    },
+    {
+        "name": "Shadow Dagger",
+        "type": "one-handed weapon",
+        "armor_rating": "1.5",
+        "damage_rating": "2.0",
+        "description": "A shadowy dagger that enhances stealth and deals shadow damage."
+    },
+    {
+        "name": "Shadow Bow",
+        "type": "two-handed weapon",
+        "armor_rating": "1.6",
+        "damage_rating": "2.2",
+        "description": "A shadowy bow that fires silent and deadly arrows."
+    },
+    {
+        "name": "Shadow Cloak",
+        "type": "back",
+        "armor_rating": "9",
+        "damage_rating": "",
+        "description": "A shadowy cloak that enhances stealth and agility."
+    },
+    {
+        "name": "Shadow Amulet",
+        "type": "necklace",
+        "armor_rating": "6",
+        "damage_rating": "",
+        "description": "A shadowy amulet imbued with stealth-enhancing magic."
+    },
+    {
+        "name": "Shadow Gloves",
+        "type": "gloves",
+        "armor_rating": "1.0",
+        "damage_rating": "1.3",
+        "description": "Shadowy gloves that aid in silent movements and agility."
+    },
+    {
+        "name": "Shadow Bracers",
+        "type": "armguards_upper",
+        "armor_rating": "1.2",
+        "damage_rating": "1.5",
+        "description": "Shadowy bracers imbued with stealth and agility."
+    },
+    {
+        "name": "Shadow Vambraces",
+        "type": "armguards_lower",
+        "armor_rating": "1.2",
+        "damage_rating": "1.5",
+        "description": "Shadowy vambraces crafted for swift and silent movements."
+    },
+    {
+        "name": "Shadow Necklace",
+        "type": "necklace",
+        "armor_rating": "4",
+        "damage_rating": "6",
+        "description": "A shadowy necklace enhancing stealth abilities."
+    },
+    {
+        "name": "Shadow Ring (Left)",
+        "type": "ring_left",
+        "armor_rating": "0.6",
+        "damage_rating": "0.9",
+        "description": "A shadowy ring worn on the left hand aiding in stealth and agility."
+    },
+    {
+        "name": "Shadow Ring (Right)",
+        "type": "ring_right",
+        "armor_rating": "0.6",
+        "damage_rating": "0.9",
+        "description": "A shadowy ring worn on the right hand aiding in stealth and agility."
+    }
+]
